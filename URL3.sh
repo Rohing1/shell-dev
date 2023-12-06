@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Name:cbs_release_forward.sh
+
 #用途：截取URL地址，并打印出来
 #Author:rohing
 #History:20230310 Version:1.0
