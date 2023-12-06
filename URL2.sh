@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-#用途：截取URL地址，并打印出来，在加上下载
+#用途：截取URL地址，并打印出来，并下载校验MD5值
 #Author:rohing
 #History:20230310 Version:1.1
 
